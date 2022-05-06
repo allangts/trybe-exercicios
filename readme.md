@@ -1,1 +1,1 @@
-Estou aprendendo usar Git e GitHub na Trybe.
+Estou aprendendo HTML e CSS na Trybe.
