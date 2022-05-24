@@ -4,7 +4,7 @@ function graus(angX, angY,angZ) {
     triangulo = true;
     }
     else {
-        triangulo = false
+        triangulo = false;
     }
     return triangulo;
 }
