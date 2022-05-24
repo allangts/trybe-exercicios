@@ -1,10 +1,10 @@
-function triangulo(angX, angY,angZ) {
-    let graus;
+function graus(angX, angY,angZ) {
+    let triangulo;
     if (angX + angY + angZ === 180) {
-    graus = true;
+    triangulo = true;
     }
     else {
-        graus = false
+        triangulo = false
     }
-    return graus;
+    return triangulo;
 }
